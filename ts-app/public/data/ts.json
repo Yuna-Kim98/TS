@@ -1,0 +1,75 @@
+{
+    "employees": [
+        {
+            "age": 30,
+            "department": "영업부",
+            "name": "홍길동"
+        },
+        {
+            "age": 20,
+            "department": "총무부",
+            "emoji": "🙍‍♂️",
+            "name": "smith"
+        },
+        {
+            "age": 35,
+            "department": "HR",
+            "name": "김영희"
+        },
+        {
+            "age": 40,
+            "department": "국제사업부",
+            "emoji": "🙍‍♂️",
+            "name": "alex"
+        }
+    ],
+    "foodList": [
+        {
+            "emoji": "🍔",
+            "name": "햄버거",
+            "price": 1000
+        },
+        {
+            "emoji": "🍜",
+            "name": "라멘",
+            "text": "맛있는 라멘"
+        },
+        {
+            "emoji": "🌭",
+            "name": "핫도그",
+            "price": 1500
+        },
+        {
+            "emoji": "🍱",
+            "name": "도시락",
+            "text": "가성비 도시락"
+        },
+        {
+            "emoji": "🍰",
+            "name": "케이크",
+            "text": "달콤한 케이크"
+        },
+        {
+            "emoji": "🍩",
+            "name": "도넛",
+            "price": 1000
+        }
+    ],
+    "menus": [
+        {
+            "emoji": "🍎",
+            "name": "apple",
+            "price": 1000
+        },
+        {
+            "emoji": "🍋",
+            "name": "lemon",
+            "source": "이탈리아"
+        },
+        {
+            "emoji": "🥭",
+            "name": "mango",
+            "price": 2000
+        }
+    ]
+}
