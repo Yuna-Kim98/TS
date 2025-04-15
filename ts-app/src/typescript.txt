@@ -1,0 +1,10 @@
+TypeScript로 독립적인 애플리케이션을 만들 수 있는가?
+얼마나 사용하는가?
+
+타입스크립트만으로 독립적인 화면 구성은 불가능하다
+ -> 화면(HTML, React) 이벤트 발생 --> 타입스크립트 --> 서버 --> DB 연동
+
+ React는 JavaScript 기반
+ 그 React에 TypeScript를 얹어서(컴파일) 사용할 수 있음
+ TypeScript : React를 통해서 넘어오는 데이터의 타입을 체크
+              OOP(Object Oriented Programming) - 객체지향 프로그래밍
